@@ -1,0 +1,18 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: anon-ws-kde-startmenu
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: https://github.com/Whonix/anon-ws-kde-startmenu
+Vcs-Browser: https://github.com/Whonix/anon-ws-kde-startmenu
+Vcs-Git: https://github.com/Whonix/anon-ws-kde-startmenu.git
+Standards-Version: 3.9.4
+
+Package: anon-ws-kde-startmenu
+Architecture: all
+Depends: ${misc:Depends}
+Description: KDE Start Menu Favorites for Anonymity Distribution Workstations
