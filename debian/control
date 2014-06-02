@@ -16,3 +16,4 @@ Package: anon-ws-kde-startmenu
 Architecture: all
 Depends: ${misc:Depends}
 Description: KDE Start Menu Favorites for Anonymity Distribution Workstations
+ Configures KDE Kickoff favorites.
