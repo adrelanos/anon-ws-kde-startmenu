@@ -17,3 +17,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: KDE Start Menu Favorites for Anonymity Distribution Workstations
  Configures KDE Kickoff favorites.
+ .
+ For better usability.
+ .
+ This package only takes effect for newly created user accounts. Not for
+ existing user accounts. This package is most useful to help Linux distribution
+ maintainers setting divergent defaults.
