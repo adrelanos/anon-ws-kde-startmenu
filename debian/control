@@ -6,7 +6,7 @@ Source: anon-ws-kde-startmenu
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 9), faketime
+Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/anon-ws-kde-startmenu
 Vcs-Browser: https://github.com/Whonix/anon-ws-kde-startmenu
 Vcs-Git: https://github.com/Whonix/anon-ws-kde-startmenu.git
