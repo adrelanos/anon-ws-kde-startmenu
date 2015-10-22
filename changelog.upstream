@@ -1,3 +1,15 @@
+commit 031c12edeceb9176130ac19b8c0099c68589f89f
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Oct 8 14:13:21 2015 +0000
+
+    update anondist-torbrowser -> janondisttorbrowser
+
+commit 8276f5eb3c78bb9fcf7dec79b5170d0854dda9cc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:47 2015 +0000
+
+    bumped changelog version
+
 commit a60fa5f809ff85f9ad0ad288df5edd8f51ed14a9
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 14:59:20 2015 +0000
